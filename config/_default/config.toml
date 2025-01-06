@@ -1,4 +1,4 @@
 baseURL = 'http://2kyan.github.io/'
 languageCode = 'en-us'
 title = 'ScratchPAD'
-theme = 'slick'
+theme = ['hugo-book', 'slick', 'PaperMod']

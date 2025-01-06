@@ -11,6 +11,16 @@ tags:
 -
 series:
 -
+#Books Theme
+#type: 'docs'
+#weight: 10
+#bookFlatSection: false
+#bookCollapseSection: true
+#bookHidden: false
+#bookToC: true
+#bookComments: true
+#bookSearchExclude: true
+#bookHref: ''
 ---
 
 # Hello World
